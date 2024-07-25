@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm RITHVIK BHONAGIRI!
 
-Welcome to my GitHub profile! I'm a passionate Data Scientist with a background in Mechanical Engineering and strong expertise in financial analytics and machine learning. Here's a snapshot of what I bring to the table:
+Welcome to my GitHub profile! I'm a passionate Data Scientist with a background in Engineering from BITS Pilani and strong expertise in financial analytics and machine learning. Here's a snapshot of what I bring to the table:
 
 ## 💼 Professional Experience
 
