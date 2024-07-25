@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist with a background 
 
 ## 🛠️ Technical Skills
 
-- **Languages & Tools**: Python, SQL, R, Spark, Pandas, NumPy, TensorFlow, AWS, Tableau, Git.
+- **Languages & Tools**: Python, SQL, R, Spark, Pandas, NumPy, Matplotlib, TensorFlow, AWS, Google Cloud, Looker, Tableau, Git.
 - **Techniques**: Machine Learning, Data Visualization, Statistical Analysis, Deep Learning, Natural Language Processing, AB testing, Causal analysis, Timeseries Forecasting.
 
 ## 🎓 Education
